@@ -22,3 +22,5 @@ gulp.task('style', function() {
     .pipe( rename( { suffix: '.min' } ) )
     .pipe( gulp.dest( styleDIST ) );
 });
+
+//test
