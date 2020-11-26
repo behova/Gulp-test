@@ -1,1 +1,3 @@
-body{background:#CCC;color:#333}a{-webkit-transition:all 320ms ease;transition:all 320ms ease}
+.buttons{display:inline-block;color:red}body{background:#CCC;color:red}a{transition:all 320ms ease}
+
+/*# sourceMappingURL=style.min.css.map */
